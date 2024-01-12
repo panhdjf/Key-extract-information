@@ -1,0 +1,24 @@
+pypdf==3.15.0
+PyPDF2==3.0.1
+langchain==0.0.184
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+tqdm==4.66.1
+# torch
+faiss-cpu==1.7.4
+einops
+transformers
+ipywidgets
+torch==2.1.1 --index-url https://download.pytorch.org/whl/cpu.
+streamlit==1.18.1
+altair==4
+tiktoken==0.4.0
+python-dotenv==1.0.0
+bitsandbytes
+accelerate
+pdf2image
+
+# ---
+# pip install awaitwhat
+# pip install kor
+# pip install zss==1.1.4

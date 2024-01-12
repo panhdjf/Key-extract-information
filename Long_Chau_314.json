@@ -1,0 +1,35 @@
+{
+    "current_institute": "Bệnh viện Da Liễu",
+    "patient_name": "TRỊNH PHẠM KIỀU NGA",
+    "gender": "Nữ",
+    "birth": "",
+    "age": "18 tháng",
+    "address": "Xã Tân Tây, Huyện Gò Công Đông,Tỉnh Tiền Giang",
+    "tel_customer": "0965839049",
+    "id_bhyt": "",
+    "diagnosis": "(L70;) Trứng cá;",
+    "date_in": "07 tháng 12 năm 2022",
+    "doctor_name": "Bs.CKII Hồ Thị Mỹ Châu",
+    "drugs": [
+        {
+            "drug_name": "Minocyclin 50mg (Zalenka)",
+            "drug_dose": "sáng 1 viên, chiều 1 viên",
+            "drug_quantity": "30 viên"
+        },
+        {
+            "drug_name": "L-Cystin 500mg (Elovess)",
+            "drug_dose": "sáng 1 viên, chiều 1 viên",
+            "drug_quantity": "30 viên"
+        },
+        {
+            "drug_name": "Cetirizin (10mg) (Cetimed)",
+            "drug_dose": "chiều 1 viên",
+            "drug_quantity": "15 viên"
+        },
+        {
+            "drug_name": "Lưu huỳnh 5% (Cream Lưu Huỳnh)",
+            "drug_dose": "bôi sáng 1 lần, tối 1 lần",
+            "drug_quantity": "2 lọ"
+        }
+    ]
+}
